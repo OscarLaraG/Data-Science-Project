@@ -15,5 +15,9 @@ To explore and clean my datasets, I utilized the Pandas package. This allowed me
 
 **Resources/Datasets:**
 https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78
+
+
 https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u
+
+
 https://thecleverprogrammer.com/2020/05/26/san-francisco-crime-analysis-with-data-science/
