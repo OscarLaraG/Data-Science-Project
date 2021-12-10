@@ -14,6 +14,8 @@ NYC Arrest Data Historic
 To explore and clean my datasets, I utilized the Pandas package. This allowed me to drop, concatenate, and cut the datasets down to only the Bronx. Using matplotlib, seaborn, etc. I was able to create graphical visualizations such as: bar graphs, horizontal bar graphs, pie charts, line graphs, and tree-maps to make it user-viewer friendly, and easy to read the findings.
 
 **Resources/Datasets:**
+
+
 https://data.cityofnewyork.us/Public-Safety/NYPD-Hate-Crimes/bqiq-cu78
 
 
@@ -21,3 +23,16 @@ https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9
 
 
 https://thecleverprogrammer.com/2020/05/26/san-francisco-crime-analysis-with-data-science/
+
+
+**Personal Links**
+
+GitHub: https://github.com/OscarLaraG
+
+
+
+GitHub-URL: https://github.com/OscarLaraG/Data-Science-Project
+
+
+
+LinkedIn: www.linkedin.com/in/oscar-l-130356155
